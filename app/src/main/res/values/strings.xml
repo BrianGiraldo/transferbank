@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Transfer Bank</string>
+    <string name="unknown_user">Usuario desconocido</string>
+    <string name="welcome_app">Bienvenido a Transfer Bank</string>
+    <string name="go_transactions">Movimientos</string>
+    <string name="input">Cargue a la cuenta</string>
+    <string name="output">Retiro</string>
+    <string name="transaction">Transferencia</string>
+    <string name="amount">Importe: %1$s</string>
+    <string name="unknown_transaction">Tipo de transacción desconocida</string>
+    <string name="move_moeny">Mover mi plata</string>
+    <string name="set_input">Cargar</string>
+    <string name="set_output">Retirar</string>
+    <string name="set_transaction">Transferir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="trnsactions_input_title">Cargar dinero a la cuenta</string>
+    <string name="trnsactions_output_title">Retirar dinero a la cuenta</string>
+    <string name="trnsactions_transaction_title">Transferencia</string>
+    <string name="account">Numero de cuenta</string>
+    <string name="cant">Cantidad</string>
+    <string name="empty_amount">Ingrese una cantidad</string>
+    <string name="no_valid_cant">Cantidad no valido</string>
+    <string name="greater_than_zero">La cantidad debe ser mayor a cero</string>
+    <string name="failed_transaction">La transacción no se pudo realizar: %1$s</string>
+    <string name="success_transaction">Genial! Transacción realizada</string>
+    <string name="insufficient_funds">Fondos insuficientes</string>
+    <string name="empty_account">Ingrese un numero de cuenta</string>
+    <string name="no_valid_account">Numero de cuenta no valido</string>
+</resources>

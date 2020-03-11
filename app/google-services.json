@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263202884897",
+    "firebase_url": "https://transfer-bank.firebaseio.com",
+    "project_id": "transfer-bank",
+    "storage_bucket": "transfer-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263202884897:android:40493ed4c79cd9ade70260",
+        "android_client_info": {
+          "package_name": "com.youngsoft.transferbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263202884897-kb5f71udcqvkfb2uitmcv90vj6ujj9md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkP96l_7Sj0xHa2zk26cNBE2FJbghvFsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263202884897-kb5f71udcqvkfb2uitmcv90vj6ujj9md.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

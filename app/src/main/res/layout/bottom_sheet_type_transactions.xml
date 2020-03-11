@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_sheet"
+    android:layout_width="match_parent"
+    android:layout_height="356dp"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="80dp"
+    app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:text="@string/move_moeny"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/set_input"
+        android:layout_width="match_parent"
+        android:layout_height="92dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:text="@string/set_input"
+        app:cornerRadius="0dp"
+        app:icon="@drawable/ic_sentiment_satisfied_black_24dp" />
+
+    <Button
+        android:id="@+id/set_output"
+        android:layout_width="match_parent"
+        android:layout_height="92dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:text="@string/set_output"
+        app:cornerRadius="0dp"
+        app:icon="@drawable/ic_sentiment_dissatisfied_black_24dp" />
+
+    <Button
+        android:id="@+id/set_transaction"
+        android:layout_width="match_parent"
+        android:layout_height="92dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:text="@string/set_transaction"
+        app:cornerRadius="0dp"
+        app:icon="@drawable/ic_sentiment_neutral_black_24dp" />
+
+</LinearLayout>
